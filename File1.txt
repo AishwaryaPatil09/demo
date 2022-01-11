@@ -6,3 +6,4 @@ change 1 work item3 change made by team
 bug 1:- To fix the bug1
 change:- for bug2.
  updated for some high priority work
+change:- this is for WI6 on local master
