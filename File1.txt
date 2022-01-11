@@ -1,1 +1,2 @@
-To fix the bug1
+bug 1: To fix the bug1
+change for bug2
