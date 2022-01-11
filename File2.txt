@@ -1,3 +1,4 @@
 1.this is readme txt file .
 2. to change for rebase on CR2
-change for et4 by teammate for rebase
+3. change for et4 by teammate for rebase
+4. CR1 updated by team mate to change on remote repository
